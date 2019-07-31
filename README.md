@@ -4,6 +4,16 @@
  * Modified by Billy Cheung to convert to button controlled instead of joystick controlled.
  * 2019 Jul 31
  
+* Parts
+*=============
+* NODE MCU Mini D1 (ESP8266) 
+* I2C SSD1306 OLED 128x64
+* 7 buttons
+* 1 on/off switch
+* 1 3.7V LIPO Battery
+* Perf Board
+* Wires
+
 * Pins for buttons
  
 * GPIO13  D7——   Rightbutton-----  .GND
